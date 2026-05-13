@@ -36,17 +36,18 @@
 
 ---
 
-<div align="center">
-  <img height="250" src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif" />
-</div>
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img height="250" src="https://media1.tenor.com/m/Dmp05slTR1EAAAAC/lebron-dunk-lebron-james.gif" />
+    </td>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaohenrique0956/joaohenrique0956/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joaohenrique0956&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
